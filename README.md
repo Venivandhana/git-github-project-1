@@ -47,11 +47,11 @@ div[^2]
 
 vaishna[^3]
 
-[^1]vandhana
+[^1]:vandhana
 
-[^2]ya
+[^2]:ya
 
-[^3]devi
+[^3]:devi
  
 
 
