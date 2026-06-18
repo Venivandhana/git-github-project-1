@@ -30,7 +30,11 @@ for multiple lines
 also used to
 save/copy the code
 ```
-for hyperlinks we use []()  // ctrl+k ---EX:[google](https://www.google.com/)
+for hyperlinks we use []+()  // ctrl+k ---EX:[google](https://www.google.com/)
+
+to insert an image we use same but here we should add "!"
+![welcome "KARTIKAARYAN","JUNGKOOK"](data:image/jpeg;base64,/9j/4A)
+
  
 
 
