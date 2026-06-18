@@ -41,6 +41,7 @@ to divide the page we use 3 or above ------
 ------
 
 now to claim the definition of the word where-ever it is we use [^any matching pair number]
+
 Veni[^1]
 
 div[^2]
@@ -61,9 +62,9 @@ ordered list
 3. after that the next numbers comes automatically
 
 unorderd list
--here we give
--hiphens, and plus
-+symbols
+- here we give
+- hiphens, and plus
++ symbols
 
 
 
