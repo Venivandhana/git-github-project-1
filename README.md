@@ -8,7 +8,16 @@
 learning git&github in summer by apssdc
 
 _italic_ (or) *italic*
+
 **bold** (or) __bold__
+
 _both are __combined__ here_ 
+
+ <ins>this is used for underline</ins>
+
+ Vandhana<sub>always grows strong and great</sub>
+
+ Veni<sup>2</sup>=defines VeniVandhana
+ 
 
 
