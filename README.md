@@ -40,7 +40,7 @@ to divide the page we use 3 or above ------
 
 ------
 
-now to claim the definition of the word whereever it is we use [^any number]
+now to claim the definition of the word where-ever it is we use [^any matching pair number]
 Veni[^1]
 
 div[^2]
@@ -52,6 +52,18 @@ vaishna[^3]
 [^2]:ya
 
 [^3]:devi
- 
+
+####for ordered and unordered list
+
+ordered list
+1. for only one number
+2. we give numbering
+3. after that the next numbers comes automatically
+
+unorderd list
+-here we give
+-hiphens, and plus
++symbols
+
 
 
