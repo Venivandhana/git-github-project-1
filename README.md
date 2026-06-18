@@ -33,7 +33,7 @@ save/copy the code
 for hyperlinks we use []+()  // ctrl+k ---EX:[google](https://www.google.com/)
 
 to insert an image we use same but here we should add "!"
-![welcome "KARTIKAARYAN","JUNGKOOK"](data:image/jpeg;base64,/9j/4A)
+![kartik](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-wpUixEE5-KTu4UO1cpng5iJ1QnHlZYltaFv5oSKJQ7fac125fwqWB8&s=10)
 
  
 
