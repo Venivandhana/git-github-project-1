@@ -37,7 +37,7 @@ to insert an image we use same but here we should add "!"
 ![jungkook](https://mrwallpaper.com/images/hd/download-jungkook-wallpaper-mufv8km78vts9vdr.jpg)
 
 to divide the page we use 3 or above ------
----------------
+-----
 
  
 
