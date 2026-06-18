@@ -26,10 +26,11 @@ _both are __combined__ here_
 To highlight the `particular word` use this(`)
 
 ```
-for
-multiple
-lines
+for multiple lines
+also used to
+save/copy the code
 ```
+for hyperlinks we use []()  // ctrl+k ---EX:[google](urlhttps://www.google.com/)
  
 
 
