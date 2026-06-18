@@ -38,7 +38,7 @@ to insert an image we use same but here we should add "!"
 
 to divide the page we use 3 or above ------
 -----
-
+now to claim the definition of the word whereever it is
  
 
 
