@@ -69,9 +69,9 @@ unorderd list
 For to give option boxes we use -[]
 
 what is my 1st fav song in jungkook playlist?
--[ ] My You
--[ ] Euphoria
--[ ] yes or no
+- [ ] My You
+- [ ] Euphoria
+- [ ] yes or no
 
 
 
