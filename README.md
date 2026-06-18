@@ -17,7 +17,11 @@ _both are __combined__ here_
 
  Vandhana<sub>always grows strong and great</sub>
 
- Veni<sup>2</sup>=defines VeniVandhana
+ V<sup>2</sup>=defines VeniVandhana
+
+ ~~for strikeout~~(~~)
+
+>Note:for important notes
  
 
 
