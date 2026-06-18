@@ -7,4 +7,8 @@
 
 learning git&github in summer by apssdc
 
+_italic_ (or) *italic*
+**bold** (or) __bold__
+_both are __combined__ here_ 
+
 
