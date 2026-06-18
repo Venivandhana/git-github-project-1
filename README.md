@@ -66,10 +66,10 @@ unorderd list
 - hiphens, and plus symols
 + but plus symbol takes more gap for lines
 
-For to give option boxes we use -[]
+For to give option boxes we use -[] , for selecting we give"x" symbol inside the box
 
 what is my 1st fav song in jungkook playlist?
-- [ ] My You
+- [X] My You
 - [ ] Euphoria
 - [ ] yes or no
 
