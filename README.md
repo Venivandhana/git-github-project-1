@@ -54,7 +54,7 @@ vaishna[^3]
 
 [^3]:devi
 
-####for ordered and unordered list
+#### for ordered and unordered list
 
 ordered list
 1. for only one number
@@ -72,6 +72,15 @@ what is my 1st fav song in jungkook playlist?
 - [X] My You
 - [ ] Euphoria
 - [ ] yes or no
+
+For creating tables, we use pipesymbol(|)for columns,, and for rows (---)
+
+####  time table 
+|7:30-8:30|12:00-1:00|6:30-7:00|
+|---|---|---|
+|Breakfast|Lunch|Dinner|
+
+      
 
 
 
