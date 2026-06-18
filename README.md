@@ -40,7 +40,13 @@ to divide the page we use 3 or above ------
 
 ------
 
-now to claim the definition of the word whereever it is
+now to claim the definition of the word whereever it is we use [^any number]
+Veni[^1]
+div[^2]
+vaishna[^3]
+[^1]vandhana
+[^2]ya
+[^3]devi
  
 
 
