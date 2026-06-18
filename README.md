@@ -54,14 +54,14 @@ vaishna[^3]
 
 [^3]:devi
 
-#### for ordered and unordered list
+### for ordered and unordered list
 
-ordered list
+#### ordered list
 1. for only one number
 2. we give numbering
 3. after that the next numbers comes automatically
 
-unorderd list
+#### unorderd list
 - here we give
 - hiphens, and plus symols
 + but plus symbol takes more gap for lines
@@ -75,7 +75,7 @@ what is my 1st fav song in jungkook playlist?
 
 For creating tables, we use pipesymbol(|)for columns,, and for rows (---)
 
-####  time table 
+### time table 
 |7:30-8:30|12:00-1:00|6:30-7:00|
 |---|---|---|
 |Breakfast|Lunch|Dinner|
