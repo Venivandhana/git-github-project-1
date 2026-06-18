@@ -36,7 +36,8 @@ to insert an image we use same but here we should add "!"
 ![kartik](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-wpUixEE5-KTu4UO1cpng5iJ1QnHlZYltaFv5oSKJQ7fac125fwqWB8&s=10)
 ![jungkook](https://mrwallpaper.com/images/hd/download-jungkook-wallpaper-mufv8km78vts9vdr.jpg)
 
-to divide the page we use 4------
+to divide the page we use 3 or above ------
+---------------
 
  
 
