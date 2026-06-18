@@ -21,7 +21,15 @@ _both are __combined__ here_
 
  ~~for strikeout~~(~~)
 
->Note:for important notes
+>Note: For important notes
+
+To highlight the `particular word` use this(`)
+
+```
+for
+multiple
+lines
+```
  
 
 
