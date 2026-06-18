@@ -30,7 +30,7 @@ for multiple lines
 also used to
 save/copy the code
 ```
-for hyperlinks we use []()  // ctrl+k ---EX:[google](urlhttps://www.google.com/)
+for hyperlinks we use []()  // ctrl+k ---EX:[google](https://www.google.com/)
  
 
 
